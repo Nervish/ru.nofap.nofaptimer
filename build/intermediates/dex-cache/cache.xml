@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/tux/AndroidStudioProjects/NofapTimer/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/tux/AndroidStudioProjects/NofapTimer/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_45a971fe0a93859649202b0610f43eff0290a369.jar" />
+    </item>
+    <item
+        jar="/home/tux/AndroidStudioProjects/NofapTimer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/tux/AndroidStudioProjects/NofapTimer/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_7e368a05244c8fd9e6c39e7a92ba577c596bd5cf.jar" />
+    </item>
+    <item
+        jar="/home/tux/AndroidStudioProjects/NofapTimer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/tux/AndroidStudioProjects/NofapTimer/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_5cb24537f061cecde42a853ede63fc91c55f376b.jar" />
+    </item>
+    <item
+        jar="/home/tux/AndroidStudioProjects/NofapTimer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c8e3ab733f6c3775ae47717fe6101eac950032d7">
+        <dex dex="/home/tux/AndroidStudioProjects/NofapTimer/app/build/intermediates/pre-dexed/debug/instant-run_30ac841bf3946ae6f651d4aca06429e7fd6c0fd9.jar" />
+    </item>
+    <item
+        jar="/home/tux/AndroidStudioProjects/NofapTimer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b2c2749732607851d6e9bef7a9154baa0e276b41">
+        <dex dex="/home/tux/AndroidStudioProjects/NofapTimer/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_08892e2bcede5f197a2267bce9c26f7d8e5d3f7c.jar" />
+    </item>
+    <item
+        jar="/home/tux/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/tux/AndroidStudioProjects/NofapTimer/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_9e559cccbd444f6f17e962016dade8e28a41a81b.jar" />
+    </item>
+    <item
+        jar="/home/tux/AndroidStudioProjects/NofapTimer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/tux/AndroidStudioProjects/NofapTimer/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_2800c6b283e055c2aaa77e85309166c962f040f9.jar" />
+    </item>
+    <item
+        jar="/home/tux/AndroidStudioProjects/NofapTimer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/tux/AndroidStudioProjects/NofapTimer/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_40958348894314b59792b69c55bd1cebd7319a39.jar" />
+    </item>
+
+</items>

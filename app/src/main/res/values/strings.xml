@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nofap Timer</string>
+    <string name="input_hint">01.01.2016 00:00:00</string>
+    <string name="button_go">Go!</string>
+</resources>
